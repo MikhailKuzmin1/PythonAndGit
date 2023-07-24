@@ -7,7 +7,7 @@ import random
 
 data = [random.randint(-100, 100) for i in range(10)]
 # Раскоментируйте строку ниже, что бы отображать созданый список
-print(data)
+# print(data)
 while True:
     minimum = int(input('Введите минимальную границу диапозона: '))
     maximum = int(input('Введите максимальную границу диапозона: '))

@@ -1,3 +1,3 @@
 # PythonAndGit
 Hello Git
-New conflict
+conflict
